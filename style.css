@@ -81,6 +81,7 @@ body, input, button {
     font-size: 3.2rem;
     line-height: 4rem;
     color: var(--tt-heading);
+    text-align: center;
 }
 
 form {
